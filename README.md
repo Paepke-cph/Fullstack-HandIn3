@@ -1,14 +1,14 @@
 # Fullstack Hand-In 3
 
 ### Backend - Deployed
-[paepke.software]("paepke.software")
+[paepke.software](https://paepke.software)
 ### Backend - Repository (HandIn2)
-[GitHub]("https://github.com/Paepke-cph/Fullstack-Handin2")
+[GitHub](https://github.com/Paepke-cph/Fullstack-Handin2)
 ## NodeJS Deployment
 Til deployment af vores backend, skrevet i TS+Nodejs, var en meget simple løsning at blot clone vores repo, på Droplet-Serveren. Det eneste der er krævet er at serveren har mulighed for at køre NodeJS programmer. Da det er muligt at lave en Droplet Server, med denne opsætning er der ikke noget problem i dette.
 Efter projektet er klonet, kan det bygges og startes. Ligesom vi gjorde på 3. semester så skal vi igen gøre brug af NGINX for at overføre al trafik en (fra port 80) til vores server som køre på en anden port.
 Da vi har haft gjort brug af en .env fil mens vi har udviklet vores NodeJS server. Vi kan ligeledes lave en .env fil i roden af projektets folder eller ved brug af miljøvariabler.
-Efter serveren er sat op og startet op kan den kontaktes direkte via [dette]("paepke.software") link
+Efter serveren er sat op og startet op kan den kontaktes direkte via [dette](https://paepke.software) link
 
 
 ## React Native
